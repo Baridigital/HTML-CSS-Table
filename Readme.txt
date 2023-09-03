@@ -1,0 +1,1 @@
+This project is the first assignment in the DevCareer Frontend Developer program. We are to build a well responsive table with 20 records using HTML and CSS.
